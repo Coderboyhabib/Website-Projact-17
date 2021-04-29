@@ -1,0 +1,160 @@
+/*========================*/
+/*  FIRST HOME SECTION    */
+/*========================*/
+
+#first_section {
+    background: #000;
+}
+
+/*========================*/
+/*          NAVABR        */
+/*========================*/
+.navbar .navbar-nav .nav-item {
+    margin: 0px 99px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    font-size: 25px;
+    color: #000;
+}
+
+/*========================*/
+/*      HOME SECTION      */
+/*========================*/
+
+#home_secction {
+    background: url(../img/home_back.png);
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#home_secction .home_contant {
+    width: 50%;
+    margin-top: 17%;
+    text-align: center;
+}
+
+#home_secction .home_contant h3 {
+    font-weight: 700;
+}
+
+#home_secction .home_contant span {
+    font-style: italic;
+}
+
+#home_secction .home_contant p {
+    font-size: 20px;
+    text-align: center;
+}
+
+/*========================*/
+/*        ABOUT US        */
+/*========================*/
+
+#about_us {
+    background: #000;
+    text-align: center;
+}
+
+#about_us .about {
+    width: 25%;
+    margin: auto;
+}
+
+#about_us .col {
+    background: #e7e7e7;
+    border-radius: 10px;
+    box-shadow: 0px 0px 16px -2px #e1dede;
+}
+
+#about_us .about h3 {
+    font-style: italic;
+    font-weight: 600;
+}
+
+#about_us .about_contant p {
+    font-size: 25px;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+/*========================*/
+/*        OUR CHEF        */
+/*========================*/
+
+#our_chef {
+    background: #000;
+}
+
+#our_chef p {
+    text-align: left;
+    font-size: 20px;
+}
+
+/*========================*/
+/*      MENU SECTION      */
+/*========================*/
+
+#menu_section {
+    background: url(../img/home_back1.png);
+    background-size: cover;
+    min-height: 60vh;
+    text-align: right;
+    color: #fff;
+    font-weight: 600;
+}
+
+/*========================*/
+/*      FOOD SECTION      */
+/*========================*/
+
+#food_secton {
+    background: #000;
+    color: #fff;
+    text-align: right;
+}
+
+#food_secton span {
+    font-style: italic;
+}
+
+
+
+#food_secton h3 {
+    font-size: 36px;
+}
+
+#food_secton h5 {
+    font-size: 40px;
+}
+
+#food_review {
+    background: #000;
+    color: #fff;
+}
+
+/*========================*/
+/*         FOOTER         */
+/*========================*/
+footer {
+    background: #e7e7e7;
+}
+
+footer .font h2 {
+    width: 20%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 50px;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 20px 20px;
+
+}
+
+footer ul li a {
+    font-size: 20px;
+    color: #000;
+}
